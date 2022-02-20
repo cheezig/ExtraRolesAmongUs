@@ -74,10 +74,23 @@ The Joker also has no tasks.
 | Joker Spawn Chance | The percentage chance that anybody in the game will become The Joker | Number | 100% |
 -----------------------
 
+## Disguiser
+### Team: Impostor
+The Disguiser is a "Crewmate" Who cannot kill but can only vent, When all the impostors die they become a Impostor.
+The Joker also has no tasks.
+
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Show Joker | If this setting is enabled, The Joker's name will be lit up grey for everyone. If it isn't, it will only be lit for themselves | Toggle | Off |
+| Joker Spawn Chance | The percentage chance that anybody in the game will become The Joker | Number | 100% |
+-----------------------
+
 # Releases:
 | Among Us - Version | Mod Version | Link |
 |----------|-------------|-----------------|
-| **2021.3.5s** | v1.3.1-AU3.5s | [Download](https://github.com/NotHunter101/ExtraRolesAmongUs/releases/download/v1.3.1(3.5s)/Extra.Roles.v.1.3.1-3.5s.zip) (latest version)
+| **2021.12.15s** | v1.4.0-AU.15s | Coming Soon
+| **2021.3.5s** | v1.3.1-AU3.5s | [Download](https://github.com/NotHunter101/ExtraRolesAmongUs/releases/download/v1.3.1(3.5s)/Extra.Roles.v.1.3.1-3.5s.zip)
 | **2020.12.9s** | v1.3.1 | [Download](https://github.com/NotHunter101/ExtraRolesAmongUs/releases/download/v1.3.1/Role.Mod.v.1.3.1.zip)
   
 ## Install Instructions
